@@ -3,5 +3,6 @@ $(document).ready(function(){
     
     $('.header-top').click(function(){
         $('.show').addClass("active")
+        
     });
 });
